@@ -1,24 +1,68 @@
-# README
+# Set up a "Hello world" project with two apps
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-Things you may want to cover:
+> Rails App backend
 
-* Ruby version
+## Link to Project PR
 
-* System dependencies
+[React Project PR](https://github.com/mukhammadrizooff/Hello-rails-react/pull/1)
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby on Rails
+- PostgreSQL
+- Webpacker
+- React
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+To get a local copy up and running follow these simple example steps.
 
-* Services (job queues, cache servers, search engines, etc.)
+### Prerequisites
 
-* Deployment instructions
+- [Ruby](https://www.ruby-lang.org/en/)
+- [Rails](https://gorails.com/)
 
-* ...
+### Setup
+
+- Make sure you have Ruby on Rails set up properly on your computer
+- Clone or download this repo on your machine
+- Enter project directory
+
+### Install
+
+- bundle install
+
+### Database
+
+#### Create user with *Ubuntu*
+- sudo -u postgres createuser hello_rails_react -s
+#### Create database, load schema and seed data
+- rails db:reset db:seed
+
+### Run
+
+- rails s
+
+## Author
+
+👤 **Muhammad Rizo Abdunazarov**
+
+- Github : [@Donard97](https://github.com/mukhammadrizooff)
+- Twitter: [@donardgolaj](https://twitter.com/Muhammadrizooff)
+- LinkdIn : [@donard-golaj](https://www.linkedin.com/in/mukhammadrizooff/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/mukhammadrizooff/Hello-rails-react/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## License
+
+This project is [MIT](./LICENSE.md) licensed.
