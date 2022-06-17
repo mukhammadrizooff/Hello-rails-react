@@ -49,9 +49,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Muhammad Rizo Abdunazarov**
 
-- Github : [@Donard97](https://github.com/mukhammadrizooff)
-- Twitter: [@donardgolaj](https://twitter.com/Muhammadrizooff)
-- LinkdIn : [@donard-golaj](https://www.linkedin.com/in/mukhammadrizooff/)
+- Github : [@mukhammadrizooff](https://github.com/mukhammadrizooff)
+- Twitter: [@Muhammadrizooff](https://twitter.com/Muhammadrizooff)
+- LinkdIn : [LinkedIn](https://www.linkedin.com/in/mukhammadrizooff/)
 
 ## 🤝 Contributing
 

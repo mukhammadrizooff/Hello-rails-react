@@ -1,6 +1,6 @@
 class Api::GreetingsController < ApplicationController
   def index
-    greeting = Greeting.all
-    render json: greeting
+    greeting = Greeting.order(Arel.sql('RANDOM()')).first
+    render json: { greeting: greeting.greeting }
   end
 end
