@@ -2,7 +2,7 @@
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-> Rails App backend
+> Rails App with React
 
 ## Link to Project PR
 
